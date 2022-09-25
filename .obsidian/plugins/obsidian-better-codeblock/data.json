@@ -1,0 +1,10 @@
+{
+  "titleBackgroundColor": "#00000020",
+  "highLightColor": "#2d82cc20",
+  "excludeLangs": [
+    "python"
+  ],
+  "showLineNumber": true,
+  "showDividingLine": true,
+  "showLangNameInTopRight": true
+}

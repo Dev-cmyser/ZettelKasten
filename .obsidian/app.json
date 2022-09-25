@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "base",
+  "attachmentFolderPath": "Files",
+  "tabSize": 4,
+  "vimMode": false,
+  "newLinkFormat": "shortest",
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "ru",
+    "en-US"
+  ]
+}

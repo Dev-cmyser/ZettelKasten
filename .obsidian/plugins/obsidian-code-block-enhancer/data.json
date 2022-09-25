@@ -1,0 +1,8 @@
+{
+  "excludeLangs": [
+    "pyton\n"
+  ],
+  "showLangName": true,
+  "showLineNumber": true,
+  "useContextMenu": true
+}
